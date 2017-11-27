@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Calcifer
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2750476539
+    locked: 0
+  - name: Enemy
+    uniqueID: 170116165
+    locked: 0
+  - name: Calcifer
+    uniqueID: 1613159083
+    locked: 0
+  - name: UI
+    uniqueID: 644219399
     locked: 0
